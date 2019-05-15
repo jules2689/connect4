@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (11.0.1)
+    minitest (5.11.3)
+    rake (12.3.2)
+    rufo (0.7.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  minitest
+  rake
+  rufo
+
+BUNDLED WITH
+   2.0.1
